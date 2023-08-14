@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/28c3a436991046cba5b4ac5f184ba3dc/artifacts
+end_time: 1692026394175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c3a436991046cba5b4ac5f184ba3dc
+run_name: resilient-hen-850
+run_uuid: 28c3a436991046cba5b4ac5f184ba3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692026392988
+status: 4
+tags: []
+user_id: nedal

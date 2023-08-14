@@ -1,0 +1,37 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-08-14T14:30:05.636568",
+    "startedAt": "2023-08-14T14:30:04.476847",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 20,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/home/nedal/my_project/genre_classification/starter/outputs/2023-08-14/17-29-19/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "starter/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/nedalaltiti/genre_classification.git",
+        "commit": "d78aaa188ba3453517c31837acf9d46a45e2daa4"
+    },
+    "email": "nedal.altiti@live.com",
+    "root": "/home/nedal/my_project/genre_classification",
+    "host": "jo03mw489",
+    "username": "nedal",
+    "executable": "/home/nedal/miniconda3/envs/mlflow-259d53ab44a1e9011b0c64ae862f43343c0fc9e5/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/ce44f8aeddbb4bc8a75c10e33cdbcd8e/artifacts
+end_time: 1692013143090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce44f8aeddbb4bc8a75c10e33cdbcd8e
+run_name: charming-cub-453
+run_uuid: ce44f8aeddbb4bc8a75c10e33cdbcd8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692013141742
+status: 4
+tags: []
+user_id: nedal

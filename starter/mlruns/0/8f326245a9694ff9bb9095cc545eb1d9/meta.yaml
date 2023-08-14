@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/8f326245a9694ff9bb9095cc545eb1d9/artifacts
+end_time: 1692026335839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f326245a9694ff9bb9095cc545eb1d9
+run_name: industrious-newt-970
+run_uuid: 8f326245a9694ff9bb9095cc545eb1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692026334670
+status: 4
+tags: []
+user_id: nedal

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/8f0994f17b364f1e908bf8da788a95b9/artifacts
+end_time: 1692020237321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f0994f17b364f1e908bf8da788a95b9
+run_name: redolent-koi-440
+run_uuid: 8f0994f17b364f1e908bf8da788a95b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692020235344
+status: 4
+tags: []
+user_id: nedal

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/efe06493375e407689e4bcadfe00ca19/artifacts
+end_time: 1692024181647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efe06493375e407689e4bcadfe00ca19
+run_name: calm-ant-283
+run_uuid: efe06493375e407689e4bcadfe00ca19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692024109748
+status: 3
+tags: []
+user_id: nedal

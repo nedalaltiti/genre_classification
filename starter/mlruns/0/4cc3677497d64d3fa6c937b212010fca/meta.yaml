@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/4cc3677497d64d3fa6c937b212010fca/artifacts
+end_time: 1692023428123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cc3677497d64d3fa6c937b212010fca
+run_name: agreeable-cow-97
+run_uuid: 4cc3677497d64d3fa6c937b212010fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023358228
+status: 4
+tags: []
+user_id: nedal

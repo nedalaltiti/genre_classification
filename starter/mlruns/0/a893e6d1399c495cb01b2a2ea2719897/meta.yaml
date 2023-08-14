@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/a893e6d1399c495cb01b2a2ea2719897/artifacts
+end_time: 1692019653161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a893e6d1399c495cb01b2a2ea2719897
+run_name: wistful-moth-601
+run_uuid: a893e6d1399c495cb01b2a2ea2719897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019651994
+status: 4
+tags: []
+user_id: nedal

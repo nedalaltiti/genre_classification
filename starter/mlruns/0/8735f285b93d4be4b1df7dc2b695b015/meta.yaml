@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/8735f285b93d4be4b1df7dc2b695b015/artifacts
+end_time: 1692019905512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8735f285b93d4be4b1df7dc2b695b015
+run_name: rare-ape-323
+run_uuid: 8735f285b93d4be4b1df7dc2b695b015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019903526
+status: 4
+tags: []
+user_id: nedal

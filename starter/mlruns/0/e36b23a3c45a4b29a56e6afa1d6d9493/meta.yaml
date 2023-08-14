@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/e36b23a3c45a4b29a56e6afa1d6d9493/artifacts
+end_time: 1692013268845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36b23a3c45a4b29a56e6afa1d6d9493
+run_name: sincere-ape-529
+run_uuid: e36b23a3c45a4b29a56e6afa1d6d9493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692013267485
+status: 4
+tags: []
+user_id: nedal

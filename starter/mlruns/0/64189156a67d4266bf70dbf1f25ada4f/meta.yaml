@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/64189156a67d4266bf70dbf1f25ada4f/artifacts
+end_time: 1692015959848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64189156a67d4266bf70dbf1f25ada4f
+run_name: carefree-hawk-691
+run_uuid: 64189156a67d4266bf70dbf1f25ada4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692015958450
+status: 4
+tags: []
+user_id: nedal

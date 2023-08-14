@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/ce919a9034c94775a3856502dc045cef/artifacts
+end_time: 1692019636728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce919a9034c94775a3856502dc045cef
+run_name: charming-snail-234
+run_uuid: ce919a9034c94775a3856502dc045cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019634784
+status: 4
+tags: []
+user_id: nedal

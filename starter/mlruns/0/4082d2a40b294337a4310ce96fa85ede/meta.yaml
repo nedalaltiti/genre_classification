@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/4082d2a40b294337a4310ce96fa85ede/artifacts
+end_time: 1692023759196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4082d2a40b294337a4310ce96fa85ede
+run_name: skittish-swan-259
+run_uuid: 4082d2a40b294337a4310ce96fa85ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692023682933
+status: 4
+tags: []
+user_id: nedal

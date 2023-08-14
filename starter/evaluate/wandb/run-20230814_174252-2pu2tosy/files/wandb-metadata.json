@@ -1,0 +1,29 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-08-14T14:42:53.902194",
+    "startedAt": "2023-08-14T14:42:52.719145",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 20,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "starter/evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/nedalaltiti/genre_classification.git",
+        "commit": "d78aaa188ba3453517c31837acf9d46a45e2daa4"
+    },
+    "email": "nedal.altiti@live.com",
+    "root": "/home/nedal/my_project/genre_classification",
+    "host": "jo03mw489",
+    "username": "nedal",
+    "executable": "/home/nedal/miniconda3/envs/mlflow-9ad98997f01f10ca95d41cc160bcad3e8dac16f6/bin/python"
+}

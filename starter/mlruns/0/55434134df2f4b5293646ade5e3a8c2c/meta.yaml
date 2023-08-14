@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/55434134df2f4b5293646ade5e3a8c2c/artifacts
+end_time: 1692019580880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55434134df2f4b5293646ade5e3a8c2c
+run_name: merciful-croc-830
+run_uuid: 55434134df2f4b5293646ade5e3a8c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019578909
+status: 4
+tags: []
+user_id: nedal

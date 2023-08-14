@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-08-14T14:29:33.603856",
+    "startedAt": "2023-08-14T14:29:32.374265",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 20,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Data with preprocessing"
+    ],
+    "state": "running",
+    "program": "/home/nedal/my_project/genre_classification/starter/preprocess/run.py",
+    "codePath": "starter/preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/nedalaltiti/genre_classification.git",
+        "commit": "d78aaa188ba3453517c31837acf9d46a45e2daa4"
+    },
+    "email": "nedal.altiti@live.com",
+    "root": "/home/nedal/my_project/genre_classification",
+    "host": "jo03mw489",
+    "username": "nedal",
+    "executable": "/home/nedal/miniconda3/envs/mlflow-484b576132a8d4f86bd93cd736b9c9cac218a14d/bin/python"
+}

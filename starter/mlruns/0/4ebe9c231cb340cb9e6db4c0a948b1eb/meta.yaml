@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/4ebe9c231cb340cb9e6db4c0a948b1eb/artifacts
+end_time: 1692022630547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ebe9c231cb340cb9e6db4c0a948b1eb
+run_name: traveling-flea-616
+run_uuid: 4ebe9c231cb340cb9e6db4c0a948b1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692022544966
+status: 4
+tags: []
+user_id: nedal

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/d65706b71dd6478cb1828f4fc2840c08/artifacts
+end_time: 1692016289831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d65706b71dd6478cb1828f4fc2840c08
+run_name: gaudy-shrew-652
+run_uuid: d65706b71dd6478cb1828f4fc2840c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692016288493
+status: 4
+tags: []
+user_id: nedal

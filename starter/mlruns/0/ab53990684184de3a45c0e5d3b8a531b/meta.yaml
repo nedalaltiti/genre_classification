@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/ab53990684184de3a45c0e5d3b8a531b/artifacts
+end_time: 1692017900970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab53990684184de3a45c0e5d3b8a531b
+run_name: bustling-fox-669
+run_uuid: ab53990684184de3a45c0e5d3b8a531b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017898643
+status: 4
+tags: []
+user_id: nedal

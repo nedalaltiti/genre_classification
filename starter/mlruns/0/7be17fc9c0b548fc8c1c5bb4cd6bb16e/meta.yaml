@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/7be17fc9c0b548fc8c1c5bb4cd6bb16e/artifacts
+end_time: 1692012861882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7be17fc9c0b548fc8c1c5bb4cd6bb16e
+run_name: handsome-jay-526
+run_uuid: 7be17fc9c0b548fc8c1c5bb4cd6bb16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692012860639
+status: 4
+tags: []
+user_id: nedal

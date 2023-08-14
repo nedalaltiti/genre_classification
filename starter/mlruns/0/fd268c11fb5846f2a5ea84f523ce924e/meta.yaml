@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/fd268c11fb5846f2a5ea84f523ce924e/artifacts
+end_time: 1692020701840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd268c11fb5846f2a5ea84f523ce924e
+run_name: worried-bat-663
+run_uuid: fd268c11fb5846f2a5ea84f523ce924e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692020699845
+status: 4
+tags: []
+user_id: nedal

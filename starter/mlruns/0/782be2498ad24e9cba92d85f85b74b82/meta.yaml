@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/782be2498ad24e9cba92d85f85b74b82/artifacts
+end_time: 1692017036953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 782be2498ad24e9cba92d85f85b74b82
+run_uuid: 782be2498ad24e9cba92d85f85b74b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017036157
+status: 4
+tags: []
+user_id: nedal

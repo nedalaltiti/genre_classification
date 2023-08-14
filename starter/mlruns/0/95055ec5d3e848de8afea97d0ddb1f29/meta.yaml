@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/95055ec5d3e848de8afea97d0ddb1f29/artifacts
+end_time: 1692015003366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95055ec5d3e848de8afea97d0ddb1f29
+run_name: respected-cow-240
+run_uuid: 95055ec5d3e848de8afea97d0ddb1f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692015001972
+status: 4
+tags: []
+user_id: nedal

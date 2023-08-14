@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/4779dd0f322e4af6861d75174be70afa/artifacts
+end_time: 1692016898408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4779dd0f322e4af6861d75174be70afa
+run_name: amazing-cow-638
+run_uuid: 4779dd0f322e4af6861d75174be70afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692016817450
+status: 4
+tags: []
+user_id: nedal

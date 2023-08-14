@@ -41,7 +41,7 @@ def go(args):
                 description=args.artifact_description,
                 metadata={'original_url': args.file_url}
             )
-            artifact.add_file(fp.name, name=basename)
+            artifact.add_file(fp.name, name=f"{args.artifact_name}:latest")
 
             logger.info("Logging artifact")
             run.log_artifact(artifact)

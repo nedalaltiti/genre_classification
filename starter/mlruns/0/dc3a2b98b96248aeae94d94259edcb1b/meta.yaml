@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/dc3a2b98b96248aeae94d94259edcb1b/artifacts
+end_time: 1692017441661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3a2b98b96248aeae94d94259edcb1b
+run_name: luminous-moose-650
+run_uuid: dc3a2b98b96248aeae94d94259edcb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692017439419
+status: 4
+tags: []
+user_id: nedal

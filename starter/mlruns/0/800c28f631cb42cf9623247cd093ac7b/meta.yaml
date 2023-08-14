@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/800c28f631cb42cf9623247cd093ac7b/artifacts
+end_time: 1692013131113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 800c28f631cb42cf9623247cd093ac7b
+run_name: rumbling-lark-932
+run_uuid: 800c28f631cb42cf9623247cd093ac7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692013129802
+status: 4
+tags: []
+user_id: nedal

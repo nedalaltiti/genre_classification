@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/f3216e13676c4e2d9798cd11dfcf2d0f/artifacts
+end_time: 1692025459649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3216e13676c4e2d9798cd11dfcf2d0f
+run_name: fun-stork-298
+run_uuid: f3216e13676c4e2d9798cd11dfcf2d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692025458465
+status: 4
+tags: []
+user_id: nedal

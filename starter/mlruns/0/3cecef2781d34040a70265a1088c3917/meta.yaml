@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/3cecef2781d34040a70265a1088c3917/artifacts
+end_time: 1692019786020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cecef2781d34040a70265a1088c3917
+run_name: mercurial-mule-780
+run_uuid: 3cecef2781d34040a70265a1088c3917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692019784860
+status: 4
+tags: []
+user_id: nedal

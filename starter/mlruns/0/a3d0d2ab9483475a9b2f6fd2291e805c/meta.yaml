@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/a3d0d2ab9483475a9b2f6fd2291e805c/artifacts
+end_time: 1692013436204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3d0d2ab9483475a9b2f6fd2291e805c
+run_name: brawny-trout-568
+run_uuid: a3d0d2ab9483475a9b2f6fd2291e805c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692013434782
+status: 4
+tags: []
+user_id: nedal

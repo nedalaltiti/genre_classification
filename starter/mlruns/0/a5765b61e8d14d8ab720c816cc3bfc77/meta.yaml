@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/a5765b61e8d14d8ab720c816cc3bfc77/artifacts
+end_time: 1692025522321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5765b61e8d14d8ab720c816cc3bfc77
+run_name: dapper-donkey-232
+run_uuid: a5765b61e8d14d8ab720c816cc3bfc77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692025482109
+status: 4
+tags: []
+user_id: nedal

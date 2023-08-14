@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/c14e0dd2f22047e0b7305fe6dcbc8646/artifacts
+end_time: 1692020110925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c14e0dd2f22047e0b7305fe6dcbc8646
+run_name: amazing-wasp-518
+run_uuid: c14e0dd2f22047e0b7305fe6dcbc8646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692020108937
+status: 4
+tags: []
+user_id: nedal

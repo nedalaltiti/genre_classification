@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nedal/my_project/genre_classification/starter/mlruns/0/7619ed6331cb4347a7d3810b15429894/artifacts
+end_time: 1692011419743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7619ed6331cb4347a7d3810b15429894
+run_name: loud-fowl-458
+run_uuid: 7619ed6331cb4347a7d3810b15429894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692011417673
+status: 4
+tags: []
+user_id: nedal
