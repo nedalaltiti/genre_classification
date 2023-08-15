@@ -26,7 +26,7 @@ def go(args):
     y_test = X_test.pop("genre")
 
     logger.info("Downloading and reading the exported model")
-    model_export_path = run.use_artifact(f"{args.model_export}:latest").download()
+    model_export_path = run.use_artifact(f"{args.model_export}").download()
 
     pipe = mlflow.sklearn.load_model(model_export_path)
 
